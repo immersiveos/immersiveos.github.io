@@ -1,2 +1,2 @@
 # immersiveos.github.io
-ImmersiveOS web site
+ImmersiveOS github pages site
